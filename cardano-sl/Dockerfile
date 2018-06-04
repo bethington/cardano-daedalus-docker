@@ -1,8 +1,8 @@
 # Build:
-# docker build -t meanjs/mean .
+# docker build -t bethington/cardano-sl .
 #
 # Run:
-# docker run -it meanjs/mean
+# docker run -it bethington/cardano-sl
 #
 # Compose:
 # docker-compose up -d
